@@ -4,3 +4,4 @@ maça
 morango
 melancia
 banana
+abacaxi
